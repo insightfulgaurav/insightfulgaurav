@@ -1,4 +1,5 @@
-### Hi there 👋, my name is Gaurav Kumar Sharma
+### Hi there 👋,
+My name is Gaurav Kumar Sharma
 #### I am an MBA in Business Analytics
 I want to be the greatest data scientist no matter what
 
