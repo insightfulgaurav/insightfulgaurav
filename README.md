@@ -1,13 +1,15 @@
-### Hi there 👋
 ### Hi there 👋, my name is Gaurav Kumar Sharma
 #### I am an MBA in Business Analytics
-![I am an MBA in Business Analytics](https://images.app.goo.gl/Zhp61LoufSH3kgjb7)
-
 I want to be the greatest data scientist no matter what
 
 Skills: Machine learning/ Data Science/ Python/ HTML / CSS
 
 - 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 
 
